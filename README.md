@@ -1,2 +1,2 @@
-# bai_02
-File luyện tập sử dụng CSS từ giao diện HTML có sẵn
+# BÀI 2
+## Luyện tập sử dụng CSS để có được giao diện giống giao diện mẫu mà không can thiệp vào file HTML có sẵn
